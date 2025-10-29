@@ -1,0 +1,6 @@
+"","Type","background","pvalue","oddvalue","Simulate"
+"1","cpm","RGB_model","6.49004134083638e-10","1.30493267771771","RGB_reslut"
+"2","highexp","RGB_model","5.0577406570755e-08","1.31383229890672","RGB_reslut"
+"3","highvar","RGB_model","0.0235485967129932","1.20265971623292","RGB_reslut"
+"4","specific.ob","RGB_model","1.42347808192663e-05","1.36419235046012","RGB_reslut"
+"5","DEG","RGB_model","3.86997916012241e-05","1.19410739492576","RGB_reslut"
